@@ -6,5 +6,5 @@ This repository contains a README file that tracks the origin of all my self-lea
 
 Repositories created for the course:
 1. [gh-demo](https://github.com/self-learning-organization/gh-demo)
-2. [gh-website](https://github.com/self-learning-organization/gh-website)
-3. [gh-starter-web](https://github.com/self-learning-organization/gh-starter-web) (forked)
+2. [gh-starter-web](https://github.com/self-learning-organization/gh-starter-web) (forked)
+3. [gh-website](https://github.com/self-learning-organization/gh-website)
