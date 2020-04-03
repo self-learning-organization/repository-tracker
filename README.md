@@ -38,3 +38,18 @@ Repositories created for the course:
 1. [gh-demo](https://github.com/self-learning-organization/gh-demo)
 2. [gh-starter-web](https://github.com/self-learning-organization/gh-starter-web) (forked)
 3. [gh-website](https://github.com/self-learning-organization/gh-website)
+
+## [Go: The Complete Developer's Guide (Golang)](https://www.udemy.com/course/go-the-complete-developers-guide/)
+### Identifier: go
+
+Repositories created for the course:
+1. [go-assignment-1](https://github.com/self-learning-organization/go-assignment-1)
+2. [go-assignment-2](https://github.com/self-learning-organization/go-assignment-2)
+3. [go-assignment-3](https://github.com/self-learning-organization/go-assignment-3)
+4. [go-cards](https://github.com/self-learning-organization/go-cards)
+5. [go-channels](https://github.com/self-learning-organization/go-channels)
+6. [go-helloworld](https://github.com/self-learning-organization/go-helloworld)
+7. [go-http](https://github.com/self-learning-organization/go-http)
+8. [go-interfaces](https://github.com/self-learning-organization/go-interfaces)
+9. [go-map](https://github.com/self-learning-organization/go-map)
+10. [go-structs](https://github.com/self-learning-organization/go-structs)
